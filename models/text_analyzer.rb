@@ -37,7 +37,7 @@ class TextAnalyzer
         biggest[key] = value
       end
     end
- 
+  binding.pry
     biggest
   end
 end
